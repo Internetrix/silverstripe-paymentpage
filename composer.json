@@ -1,5 +1,5 @@
 {
-	"name" : "Internetrix/silverstripe-paymentpage",
+	"name" : "internetrix/silverstripe-paymentpage",
 	"description" : "Payment page using silverstripe payment module",
 	"type" : "silverstripe-module",
 	"homepage" : "https://github.com/Internetrix/silverstripe-paymentpage",
